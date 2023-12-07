@@ -50,14 +50,14 @@ Otteti Host=3 ; Otteti rete=1.
 
 
 ● 200.1.9.8/24
-IP Network: ● 200.1.9.0/24
-IP Broadcast: ● 200.1.9.255/24
-IP Gateway: ● 200.1.9.1/24
+IP Network: 200.1.9.0/24
+IP Broadcast: 200.1.9.255/24
+IP Gateway: 200.1.9.1/24
 Otteti Host=1 ; Otteti rete=3.
 
 
 ● 172.16.0.4/16
-IP Network: ● 172.160.0.0/16
-IP Broadcast: ● 172.160.255.255/16
-IP Gateway: ● 172.16.0.1/16
+IP Network: 172.160.0.0/16
+IP Broadcast: 172.160.255.255/16
+IP Gateway: 172.16.0.1/16
 Otteti Host=2 ; Otteti rete=2.
